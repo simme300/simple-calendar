@@ -1,0 +1,19 @@
+{
+	"name": "calendar",
+	"version": "1.0.0",
+	"main": "script.js",
+	"scripts": {
+		"start": "parcel index.html",
+		"build": "parcel build index.html"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"date-fns": "^4.1.0"
+	},
+	"devDependencies": {
+		"parcel-bundler": "^1.12.5"
+	}
+}
